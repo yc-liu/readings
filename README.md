@@ -1,3 +1,0 @@
-# readingx
-
-some books
